@@ -61,13 +61,6 @@ El proyecto consiste en un semáforo inteligente que no solo controla el flujo d
 
     Puedes instalar estas bibliotecas directamente desde el Administrador de Bibliotecas en el IDE de Arduino.
 
-3. **Carga el código en tu Arduino:**
-    - Abre el archivo `smart_traffic_light.ino` en el IDE de Arduino.
-    - Conecta tu Arduino a la computadora.
-    - Selecciona el puerto y el tipo de placa correspondiente.
-    - Sube el código al Arduino.
-
-
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
