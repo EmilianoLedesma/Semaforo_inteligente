@@ -68,19 +68,6 @@ El proyecto consiste en un semáforo inteligente que no solo controla el flujo d
     - Selecciona el puerto y el tipo de placa correspondiente.
     - Sube el código al Arduino.
 
-## Uso
-
-Una vez que hayas cargado el código en el Arduino y realizado las conexiones según el esquema, el semáforo comenzará a funcionar. Los LEDs simularán la operación de un semáforo estándar, y el sensor DHT11 medirá la temperatura y la humedad, mostrando los valores en el display LCD.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama con tu nueva funcionalidad (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza los cambios necesarios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
 
 ## Licencia
 
@@ -88,4 +75,3 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ---
 
-¡Gracias por usar nuestro semáforo inteligente! Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
