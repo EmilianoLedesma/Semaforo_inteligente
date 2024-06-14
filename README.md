@@ -73,4 +73,4 @@ El proyecto consiste en un semáforo inteligente que no solo controla el flujo d
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
+**Ingeniería en Sistemas Computacionales, Universidad Politécnica de Querétaro**
