@@ -1,7 +1,7 @@
 # Proyecto de Semáforo Inteligente con Sensores de Temperatura y Humedad
 
 Este repositorio contiene el código y las instrucciones necesarias para construir un semáforo inteligente basado en Arduino que, además de gestionar el tráfico, mide la temperatura y la humedad del ambiente utilizando sensores DHT11.
-![Header Image]([C:\Users\Emiliano\Downloads/semaforo](https://www.cactustraffic.com.mx/wp-content/uploads/2016/07/Destacada.jpg))
+![Header Image](https://www.cactustraffic.com.mx/wp-content/uploads/2016/07/Destacada.jpg)
 
 ## Tabla de Contenidos
 - [Descripción](#descripción)
