@@ -8,8 +8,6 @@ Este repositorio contiene el código y las instrucciones necesarias para constru
 - [Componentes](#componentes)
 - [Esquema de Conexión](#esquema-de-conexión)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
 ## Descripción
