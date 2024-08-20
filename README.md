@@ -9,6 +9,7 @@ Este repositorio contiene el código y las instrucciones necesarias para constru
 - [Esquema de Conexión](#esquema-de-conexión)
 - [Instalación](#instalación)
 - [Licencia](#licencia)
+- [Pruebas](#pruebas)
 
 ## Descripción
 
@@ -67,6 +68,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Pruebas
 
-las pruebas para este proyecto se encuentran alojadas en un servidor externo, da click [aquí](https://drive.google.com/drive/folders/1ad0LOJ2PfRyWpPOnZMtI83vvOpyXzT8-) para ver más.
+las pruebas para este proyecto se encuentran alojadas en un servidor externo, da click [aquí](https://drive.google.com/drive/folders/1ad0LOJ2PfRyWpPOnZMtI83vvOpyXzT8-?usp=sharing) para ver más.
 ---
 **Ingeniería en Sistemas Computacionales, Universidad Politécnica de Querétaro**
