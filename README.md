@@ -61,13 +61,13 @@ El proyecto consiste en un semáforo inteligente que no solo controla el flujo d
     - [LiquidCrystal I2C](https://github.com/johnrickman/LiquidCrystal_I2C).
 
     Puedes instalar estas bibliotecas directamente desde el Administrador de Bibliotecas en el IDE de Arduino.
+## Pruebas
+
+Las pruebas para este proyecto se encuentran alojadas en un servidor externo, da click [aquí](https://drive.google.com/drive/folders/1ad0LOJ2PfRyWpPOnZMtI83vvOpyXzT8-?usp=sharing) para ver más.
 
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
-## Pruebas
-
-las pruebas para este proyecto se encuentran alojadas en un servidor externo, da click [aquí](https://drive.google.com/drive/folders/1ad0LOJ2PfRyWpPOnZMtI83vvOpyXzT8-?usp=sharing) para ver más.
 ---
 **Ingeniería en Sistemas Computacionales, Universidad Politécnica de Querétaro**
